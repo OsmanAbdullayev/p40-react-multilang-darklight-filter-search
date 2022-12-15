@@ -1,0 +1,27 @@
+{
+  "title":{
+    "0":"Ütüləmə",
+    "1": "Kimyəvi təmizləmə",
+    "2": "Rəngləmə",
+    "3": "Yuma",
+    "4": "Ölçü dəyişmək",
+    "5": "Tikiş",
+    "6": "Ağlaşdırma",
+    "7": "Qaralaşma"
+  },
+
+  "description":{
+    "0":"Geyiminiz yeni kimi olacaq",
+    "1": "Paltarınız təzə olacaq və bütün bakteriyalar yox olacaq",
+    "2": "Paltarınızın rəngini dəyişin, yalnız pambıq üçün!",
+    "3": "Geyimləriniz heç vaxt olmadığı qədər təzə olacaq!",
+    "4": "Geyiminizin ölçüsünü azaldın",
+    "5": "Paltarın cırılıb? Biz onların təzə kimi olmasına əmin olacağıq!",
+    "6": "Sibir ağlığını paltarlarınıza çatdıracağıq!",
+    "7": "Paltarınızın qaralmasını bərpa edəcəyik"
+  },
+
+  "nav":{
+    "0": "Ana Səhifə"
+  }
+}

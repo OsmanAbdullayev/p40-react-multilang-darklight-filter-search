@@ -1,0 +1,27 @@
+{
+  "title":{
+    "0":"Stirare",
+    "1": "Pulizia chimica",
+    "2": "Colorare",
+    "3": "Lavaggio",
+    "4": "Ridimensionamento",
+    "5": "Cucito",
+    "6": "Sbiancamento",
+    "7": "Annerire"
+  },
+
+  "description":{
+    "0": "I tuoi vestiti torneranno come nuovi",
+    "1": "I tuoi vestiti saranno freschi e tutti i batteri saranno spariti",
+    "2": "Cambia i colori dei tuoi vestiti, solo per il cotone!",
+    "3": "I tuoi vestiti diventeranno freschi come mai prima d'ora!",
+    "4": "Diminuisci la taglia dei tuoi vestiti",
+    "5": "I tuoi vestiti strappati? Faremo in modo che siano come nuovi!",
+    "6": "Consegneremo il candore siberiano ai tuoi vestiti!",
+    "7": "Ripristineremo l'oscurità dei tuoi vestiti"
+  },
+
+  "nav":{
+    "0": "Pagina Inizale"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "title":{
+    "0":"Ironing",
+    "1": "Chemical Cleaning",
+    "2": "Coloring",
+    "3": "Washing",
+    "4": "Resizing",
+    "5": "Sewing",
+    "6": "Whitening",
+    "7": "Blackening"
+  },
+
+  "description":{
+    "0":"You clothes will be like new",
+    "1": "You clothes will be fresh and all bacterias will be gone",
+    "2": "Change colors of your clothes, only for cotton!",
+    "3": "Your clothes will get fresh as never before!",
+    "4": "Decrease size of your clothes",
+    "5": "Your clothes teared apart? We will make sure they are like new!",
+    "6": "We will deliver the Siberian whiteness to your clothes!",
+    "7": "We will restore the blackenss of your clothes"
+  },
+
+  "nav":{
+    "0": "Home"
+  }
+}
